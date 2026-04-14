@@ -1,2 +1,16 @@
-# AgriCure-DZ.
-🪴 AgriCure-DZ: An AI-powered system designed to diagnose plant diseases using Deep Learning, specifically tailored for the Algerian agricultural sector. 🌾 AgriCure-DZ: نظام ذكاء اصطناعي لتشخيص أمراض النباتات باستخدام التعلم العميق، موجه لتطوير القطاع الزراعي في الجزائر
+
+# 🪴 AgriCure-DZ: نظام تشخيص أمراض النباتات بالذكاء الاصطناعي
+
+**AgriCure-DZ** هو مشروع تقني يهدف إلى مساعدة القطاع الزراعي في الجزائر باستخدام تقنيات التعلم العميق (Deep Learning).
+
+## 🚀 عن المشروع
+نظام يعتمد على رؤية الحاسوب (Computer Vision) لتحديد الأمراض التي تصيب المحاصيل الزراعية فورياً من خلال الصور، مما يساعد الفلاحين على اتخاذ قرارات سريعة لحماية محاصيلهم.
+
+## 🛠️ التقنيات المستخدمة
+*   **اللغة:** Python
+*   **المكتبات:** TensorFlow / Keras
+*   **البيئة:** Google Colab
+
+---
+👨‍💻 **تطوير:** صال بن لعبيدي  
+📍 **الجزائر 🇩🇿**
